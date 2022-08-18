@@ -88,7 +88,7 @@
 <a href="https://twitter.com/dkselfkrlsk" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href='andiragita.github.io' target='_blank'>
+<a href='https://andiragita.github.io' target='_blank'>
  <img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white alt=website style="margin-bottom: 5px;"/>
 </a>
 
